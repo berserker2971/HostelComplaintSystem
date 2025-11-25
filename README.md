@@ -7,9 +7,7 @@ A QR-based web application for reporting, tracking, and managing hostel maintena
 ## 🌐 Live Website
 
 🔗 **Hosted at:**  
-➡️ [https://your-render-link.onrender.com](https://hostelcomplaintsystem-e1mi.onrender.com/)
-
-*(Replace with your actual Render deployment URL)*
+➡️ [https://hostelcomplaintsystem-e1mi.onrender.com/](https://hostelcomplaintsystem-e1mi.onrender.com/)
 
 ---
 
