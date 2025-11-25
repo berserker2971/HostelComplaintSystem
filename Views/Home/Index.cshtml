@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="hero-section">
+    <h1>Hostel Maintenance & Complaint Management</h1>
+    <p class="mt-2">
+        Scan QR codes placed across the hostel, report maintenance issues in seconds, and allow admins to track and resolve them efficiently.
+    </p>
+    <div class="mt-4">
+        <a asp-controller="Complaints" asp-action="Index" class="btn btn-light me-2">
+            Go to Admin Dashboard
+        </a>
+        <a asp-area="Identity" asp-page="/Account/Login" class="btn btn-outline-light">
+            Admin Login
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="card-custom">
+            <h3>Scan QR Code</h3>
+            <p class="mt-2">
+                Each critical hostel location (washrooms, corridors, common rooms) has a unique QR code linked to that location.
+            </p>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card-custom">
+            <h3>Submit Complaint</h3>
+            <p class="mt-2">
+                Students quickly select issue type, describe the problem, and optionally attach a photo for more clarity.
+            </p>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card-custom">
+            <h3>Track Resolution</h3>
+            <p class="mt-2">
+                Admins use the dashboard to filter, update status, and keep track of pending and resolved complaints.
+            </p>
+        </div>
+    </div>
+</div>

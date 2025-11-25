@@ -1,0 +1,168 @@
+    /* --- 1. GLOBAL VARIABLES & RESET --- */
+    :root {
+        --primary-color: #2c3e50; /* Dark Blue/Slate */
+        --secondary-color: #34495e; /* Lighter Slate */
+        --accent-color: #3498db; /* Bright Blue */
+        --success-color: #27ae60; /* Green */
+        --warning-color: #f39c12; /* Orange */
+        --danger-color: #e74c3c; /* Red */
+        --light-bg: #f4f6f9; /* Very light gray background */
+        --text-color: #333;
+        --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        --border-radius: 8px;
+    }
+
+    body {
+        background-color: var(--light-bg);
+        font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+        color: var(--text-color);
+    }
+
+    h1, h2, h3 {
+        color: var(--primary-color);
+        font-weight: 600;
+    }
+
+    /* --- 2. NAVBAR --- */
+    .navbar {
+        background-color: var(--primary-color) !important;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .navbar-brand, .nav-link {
+        color: #ffffff !important;
+    }
+
+        .nav-link:hover {
+            color: var(--accent-color) !important;
+        }
+
+    /* --- 3. CARDS (Used for Login & Dashboard) --- */
+    /* This makes white boxes look like floating cards */
+    .card-custom {
+        background: white;
+        border-radius: var(--border-radius);
+        box-shadow: var(--card-shadow);
+        padding: 2rem;
+        margin-bottom: 2rem;
+        border: none; /* Remove default bootstrap border */
+    }
+
+    /* --- 4. BUTTONS --- */
+    .btn-primary {
+        background-color: var(--accent-color);
+        border-color: var(--accent-color);
+        font-weight: 500;
+        padding: 0.5rem 1.5rem;
+        transition: all 0.3s ease;
+    }
+
+        .btn-primary:hover {
+            background-color: #2980b9;
+            border-color: #2980b9;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+
+    .btn-danger {
+        background-color: var(--danger-color);
+        border: none;
+    }
+
+    /* --- 5. FORMS (Login & Student Submission) --- */
+    .form-control {
+        border-radius: 6px;
+        border: 1px solid #ced4da;
+        padding: 0.75rem;
+    }
+
+        .form-control:focus {
+            border-color: var(--accent-color);
+            box-shadow: 0 0 0 0.2rem rgba(52, 152, 219, 0.25);
+        }
+
+    /* --- 6. TABLE (Admin Dashboard) --- */
+    .table-container {
+        background: white;
+        border-radius: var(--border-radius);
+        box-shadow: var(--card-shadow);
+        overflow: hidden; /* Keeps borders inside rounded corners */
+    }
+
+    .table thead th {
+        background-color: var(--secondary-color);
+        color: white;
+        border: none;
+        padding: 1rem;
+    }
+
+    .table tbody td {
+        padding: 1rem;
+        vertical-align: middle;
+        border-bottom: 1px solid #eee;
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: #f1f1f1;
+    }
+
+    /* Status Badges */
+    .status-badge {
+        padding: 0.4em 0.8em;
+        border-radius: 20px;
+        font-size: 0.85em;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+
+    .status-new {
+        background-color: #e3f2fd;
+        color: #1565c0;
+    }
+
+    .status-progress {
+        background-color: #fff3e0;
+        color: #ef6c00;
+    }
+
+    .status-resolved {
+        background-color: #e8f5e9;
+        color: #2e7d32;
+    }
+
+    /* --- 7. LOGIN PAGE SPECIFIC --- */
+    .login-container {
+        max-width: 450px;
+        margin: 4rem auto; /* Center it vertically and horizontally */
+    }
+
+    .login-header {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+        .login-header h2 {
+            font-size: 1.8rem;
+            color: var(--primary-color);
+        }
+
+    /* --- 8. HOMEPAGE HERO --- */
+    .hero-section {
+        background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+        color: white;
+        padding: 4rem 2rem;
+        border-radius: var(--border-radius);
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+        .hero-section h1 {
+            color: white;
+            font-size: 2.5rem;
+        }
+
+        .hero-section p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }

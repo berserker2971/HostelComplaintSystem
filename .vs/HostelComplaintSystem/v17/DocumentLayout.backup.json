@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\views\\qrcode\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:views\\qrcode\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\controllers\\complaintscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:controllers\\complaintscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\views\\complaints\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:views\\complaints\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\views\\complaints\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:views\\complaints\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\views\\complaints\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:views\\complaints\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:models\\complaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\hostelcomplaintsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:hostelcomplaintsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\migrations\\20251102165344_addidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:migrations\\20251102165344_addidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|d:\\college\\sem 5\\ecc-399\\hostelcomplaintsystem\\views\\complaints\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C0800B6-9329-4983-B2F9-6790A9A246E8}|HostelComplaintSystem.csproj|solutionrelative:views\\complaints\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:13:29.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswFIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:08:03.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBkAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T06:03:58.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T05:58:46.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComplaintsController.cs",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Controllers\\ComplaintsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComplaintsController.cs",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Controllers\\ComplaintsController.cs",
+              "RelativeToolTip": "Controllers\\ComplaintsController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAswJAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T19:09:53.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QrCodeController.cs",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Controllers\\QrCodeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\QrCodeController.cs",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Controllers\\QrCodeController.cs",
+              "RelativeToolTip": "Controllers\\QrCodeController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:33:38.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\QrCode\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\QrCode\\Index.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\QrCode\\Index.cshtml",
+              "RelativeToolTip": "Views\\QrCode\\Index.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwDcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T18:48:22.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:46:05.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T06:13:54.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T06:00:30.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T09:59:15.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T10:04:18.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T10:04:21.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T17:49:07.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T17:28:35.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Complaints\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Complaints\\Create.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Complaints\\Create.cshtml",
+              "RelativeToolTip": "Views\\Complaints\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T04:36:34.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAYwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-25T05:57:09.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Complaints\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Complaints\\Edit.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Complaints\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Complaints\\Edit.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T17:21:33.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Complaints\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Complaints\\Index.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Complaints\\Index.cshtml",
+              "RelativeToolTip": "Views\\Complaints\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T17:07:38.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Complaint.cs",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Models\\Complaint.cs",
+              "RelativeDocumentMoniker": "Models\\Complaint.cs",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Models\\Complaint.cs",
+              "RelativeToolTip": "Models\\Complaint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T18:28:24.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:52:50.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HostelComplaintSystem",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\HostelComplaintSystem.csproj",
+              "RelativeDocumentMoniker": "HostelComplaintSystem.csproj",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\HostelComplaintSystem.csproj",
+              "RelativeToolTip": "HostelComplaintSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-25T06:27:29.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Complaints\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Complaints\\Delete.cshtml",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Views\\Complaints\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Complaints\\Delete.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAABBwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T17:46:33.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20251102165344_AddIdentitySchema.cs",
+              "DocumentMoniker": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Migrations\\20251102165344_AddIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251102165344_AddIdentitySchema.cs",
+              "ToolTip": "D:\\College\\sem 5\\ECC-399\\HostelComplaintSystem\\Migrations\\20251102165344_AddIdentitySchema.cs",
+              "RelativeToolTip": "Migrations\\20251102165344_AddIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:53:44.175Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1334,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

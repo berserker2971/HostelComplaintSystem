@@ -1,0 +1,51 @@
+﻿@model HostelComplaintSystem.Models.Complaint
+
+@{
+    ViewData["Title"] = "Report an Issue";
+}
+
+<h1>Report a Maintenance Issue</h1>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Location" class="control-label"></label>
+                <input asp-for="Location" class="form-control" readonly />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="IssueType" class="control-label">Type of Issue</label>
+                <select asp-for="IssueType" class="form-control">
+                    <option value="">-- Select One --</option>
+                    <option value="Plumbing">Plumbing</option>
+                    <option value="Electrical">Electrical</option>
+                    <option value="Furniture">Furniture</option>
+                    <option value="Cleaning">Cleaning</option>
+                    <option value="Other">Other</option>
+                </select>
+                <span asp-validation-for="IssueType" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label class="control-label">Upload Photo (Optional)</label>
+                <input type="file" name="imageFile" class="form-control" accept="image/*" />
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Submit Complaint" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

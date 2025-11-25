@@ -1,0 +1,64 @@
+﻿@model HostelComplaintSystem.Models.Complaint
+
+@{
+    ViewData["Title"] = "Edit Complaint";
+}
+
+<h1>Edit Complaint</h1>
+<h4>Complaint ID #@Model.Id</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card-custom">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <input type="hidden" asp-for="Id" />
+                <input type="hidden" asp-for="Location" />
+                <input type="hidden" asp-for="Description" />
+                <input type="hidden" asp-for="RegisteredTime" />
+                <input type="hidden" asp-for="IssueType" />
+
+                <div class="form-group mb-3">
+                    <label class="control-label">Location</label>
+                    <input asp-for="Location" class="form-control" readonly />
+                </div>
+
+                <div class="form-group mb-3">
+                    <label class="control-label">Description</label>
+                    <textarea asp-for="Description" class="form-control" rows="3" readonly></textarea>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Status" class="control-label"></label>
+                    <select asp-for="Status" class="form-control">
+                        <option value="New">New</option>
+                        <option value="In Progress">In Progress</option>
+                        <option value="Resolved">Resolved</option>
+                    </select>
+                    <span asp-validation-for="Status" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Save Changes" class="btn btn-primary" />
+                    <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        @if (!string.IsNullOrEmpty(Model.ImagePath))
+        {
+            <div class="card-custom">
+                <label class="control-label mb-2">Uploaded Image</label>
+                <img src="@Model.ImagePath" style="width: 100%; border-radius: 5px;" alt="Complaint Image" />
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
