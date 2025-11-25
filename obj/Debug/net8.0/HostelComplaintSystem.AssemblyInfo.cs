@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HostelComplaintSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66aec1881db2d195f6ccb16ba5cf47df8997c926")]
 [assembly: System.Reflection.AssemblyProductAttribute("HostelComplaintSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HostelComplaintSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

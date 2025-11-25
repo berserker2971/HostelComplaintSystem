@@ -1,0 +1,17 @@
+﻿
+bin/
+obj/
+out/
+
+*.user
+*.suo
+
+*.db-shm
+*.db-wal
+*.log
+
+complaints.db
+
+*.log
+
+wwwroot/uploads/
